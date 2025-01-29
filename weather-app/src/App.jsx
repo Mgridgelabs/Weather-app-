@@ -92,7 +92,7 @@ const App = () => {
       </div>
 
       {/* Search Results Section */}
-      <div className="w-full max-w-3xl p-6 rounded-2xl shadow-lg bg-white text-gray-900">
+      <div className="w-full max-w-3xl p-6 rounded-2xl shadow-lg text-amber mt-6">
         <h2 className="text-2xl font-semibold mb-4 text-center">🌎 Search Results</h2>
         <div className="flex flex-wrap justify-center gap-4">
           {searchedCities.length === 0 && <p className="text-center text-gray-500">No search results yet</p>}
