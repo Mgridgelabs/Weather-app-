@@ -1,5 +1,6 @@
-
 @import "tailwindcss";
+/* Add the following line to import DaisyUI plugin */
+/* @import "daisyui"; */
 
 body {
   background: url('https://source.unsplash.com/1600x900/?weather,sky') no-repeat center center fixed;
