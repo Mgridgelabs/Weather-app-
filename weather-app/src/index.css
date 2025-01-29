@@ -1,0 +1,7 @@
+
+@import "tailwindcss";
+
+body {
+  background: url('https://source.unsplash.com/1600x900/?weather,sky') no-repeat center center fixed;
+  background-size: cover;
+}
